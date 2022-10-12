@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-12T11:57:56.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BXw4gEXtatY_VDvyLEAR" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-12T12:23:32.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6r7QxyQVIvhGAZYM0jf_" version="20.4.0" type="github">
   <diagram id="eLoA7K0Q_ncipDc_aWl9" name="第 1 页">
-    <mxGraphModel dx="1550" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="482" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry y="66" width="196" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fvbYOblRyi6HBhiJEYm3-13" value="Colleague" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="260" width="160" height="110" as="geometry" />
+          <mxGeometry x="720" y="286" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fvbYOblRyi6HBhiJEYm3-14" value="- mediator:Mediator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fvbYOblRyi6HBhiJEYm3-13">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -70,12 +70,6 @@
             <mxPoint x="590" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fvbYOblRyi6HBhiJEYm3-24" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=1.02;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvbYOblRyi6HBhiJEYm3-1" target="fvbYOblRyi6HBhiJEYm3-14">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="440" y="370" as="sourcePoint" />
-            <mxPoint x="600" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fvbYOblRyi6HBhiJEYm3-25" value="ConcreteColleague2" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="827" y="496" width="160" height="110" as="geometry" />
         </mxCell>
@@ -92,6 +86,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1040" y="330" as="sourcePoint" />
             <mxPoint x="1200" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fvbYOblRyi6HBhiJEYm3-30" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=1.002;exitY=0.122;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fvbYOblRyi6HBhiJEYm3-1" target="fvbYOblRyi6HBhiJEYm3-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
