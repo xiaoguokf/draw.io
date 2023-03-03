@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2022-10-21T15:06:16.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3Ycag9a9iRTID_457jVG" version="20.4.1" type="github">
+  <diagram id="J8WeHaZU6zitpAYrlE3c" name="第 1 页">
+    <mxGraphModel dx="1938" dy="1084" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-2" value="栏目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-3" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-4" value="新闻" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-5" value="新闻审核员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-6" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-7" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-8" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-9" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-10" value="账号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-11" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-12" value="栏目id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1005" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-13" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1055" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-14" value="发布时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1135" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-15" value="新闻内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1135" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-17" value="新闻发布者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1MFYiJVyGQu6Pg4gotuM-18" value="用户类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
