@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-01-31T08:06:18.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wS3Yhjq50V6EusuQ6bgh" version="23.0.2" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1750" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-1" value="用户(user)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-2" value="公司(company)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-3" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-4" value="公司人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-5" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-6" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-7" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-8" value="真实姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="430" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-9" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="182.5" width="100" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-10" value="昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-11" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;法定代表人&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;法定代表人&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="685" y="300" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-13" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;统一社会信用代码&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;统一社会信用代码&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="184" width="110" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-14" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;注册日期&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;注册日期&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="355" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-15" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;注册资本&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;注册资本&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-16" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;营业收入&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;营业收入&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-17" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;电话&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;电话&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-18" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;邮箱&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;邮箱&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-19" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;官网&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;官网&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="171" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-20" value="地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-21" value="员工人数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-22" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-23" value="公司id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-24" value="基本工资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-25" value="保障制度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="930" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-26" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1080" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-27" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-28" value="价值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-29" value="图片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-30" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-31" value="公司用户id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1020" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-32" value="工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-33" value="立项书模板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-34" value="项目id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-35" value="&lt;div data-mind-map=&quot;[{&amp;quot;type&amp;quot;:5,&amp;quot;data&amp;quot;:{&amp;quot;id&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;研发负责人&amp;quot;,&amp;quot;boundaries&amp;quot;:[]}}]&quot;&gt;&lt;div style=&quot;&quot;&gt;研发负责人&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-36" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;项目预算&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;项目预算&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-37" value="项目开始时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-38" value="项目结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="2570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-39" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;关联设备&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;关联设备&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-40" value="&lt;div data-mind-map-text=&quot;[{&amp;quot;paragraphProps&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;textAlign&amp;quot;:0,&amp;quot;lineSpacing&amp;quot;:1.4},&amp;quot;isComplete&amp;quot;:true,&amp;quot;textProps&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;研发人员&amp;quot;,&amp;quot;color&amp;quot;:&amp;quot;#1f1f1f&amp;quot;,&amp;quot;fontWeight&amp;quot;:400,&amp;quot;fontSize&amp;quot;:14,&amp;quot;fontFamily&amp;quot;:&amp;quot;\&amp;quot;Helvetica Neue\&amp;quot;, Helvetica, \&amp;quot;PingFang SC\&amp;quot;, \&amp;quot;Microsoft YaHei\&amp;quot;, \&amp;quot;Source Han Sans SC\&amp;quot;, \&amp;quot;Noto Sans CJK SC\&amp;quot;, \&amp;quot;WenQuanYi Micro Hei\&amp;quot;, sans-serif&amp;quot;,&amp;quot;italic&amp;quot;:false,&amp;quot;underline&amp;quot;:false,&amp;quot;strike&amp;quot;:false}]}]&quot;&gt;研发人员&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="3050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-41" value="费用分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-42" value="分类名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-44" value="父id路径" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="1710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-46" value="分类id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-47" value="立项书实例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-48" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-49" value="类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QdmaDZKXm1rJ4g3LjGp4-50" value="值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1690" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
