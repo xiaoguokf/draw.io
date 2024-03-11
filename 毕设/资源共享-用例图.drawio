@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T12:52:29.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="fbWy3wdhbfPNRdH1dmoZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T12:55:32.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kaBDQird0bFNASFumk00" version="24.0.4" type="github">
   <diagram name="第 1 页" id="FDtEsgjhYImc4gk-P5fz">
-    <mxGraphModel>
+    <mxGraphModel dx="893" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-4" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-5" value="用户模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-6" value="资源模块" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="70" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-7" value="&lt;span style=&quot;font-size: 14pt; font-family: 黑体;&quot;&gt;订单模块&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-8" value="&lt;span style=&quot;font-size: 14pt; font-family: 黑体;&quot;&gt;交流模块&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mCHO1RYdTXxO_RGGgIWj-9" value="&lt;span style=&quot;font-size: 14pt; font-family: 黑体;&quot;&gt;用户管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="100" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
