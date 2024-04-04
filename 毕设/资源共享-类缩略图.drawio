@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T21:47:26.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IMl3qGL42DEYDh5lyo7E" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-04T22:01:48.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rRi6ulxOO2C49xrZGfbs" version="24.2.2" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2327" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -468,7 +468,7 @@
         <mxCell id="P6_UJkGY8DH9wDjuileu-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-8">
           <mxGeometry y="190" width="190" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="P6_UJkGY8DH9wDjuileu-11" value="&lt;div&gt;+获取账号&lt;/div&gt;&lt;div&gt;+设置账号&lt;/div&gt;&lt;div&gt;+获取密码&lt;/div&gt;&lt;div&gt;+设置密码&lt;/div&gt;&lt;div&gt;+获取头像&lt;/div&gt;&lt;div&gt;+设置头像&lt;/div&gt;&lt;div&gt;+获取邮箱&lt;/div&gt;&lt;div&gt;+设置邮箱&lt;/div&gt;&lt;div&gt;+获取昵称&lt;/div&gt;&lt;div&gt;+设置昵称&lt;/div&gt;&lt;div&gt;+获取个人简介&lt;/div&gt;&lt;div&gt;+设置个人简介&lt;/div&gt;&lt;div&gt;+获取创建时间&lt;/div&gt;&lt;div&gt;+设置创建时间&lt;/div&gt;&lt;div&gt;+获取最后登录时间&lt;/div&gt;&lt;div&gt;+设置最后登录时间&lt;/div&gt;&lt;div&gt;+获取帐号启用状态&lt;/div&gt;&lt;div&gt;+设置帐号启用状态&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-8">
+        <mxCell id="P6_UJkGY8DH9wDjuileu-11" value="&lt;div&gt;&lt;div&gt;+获取账号()&lt;/div&gt;&lt;div&gt;+设置账号()&lt;/div&gt;&lt;div&gt;+获取密码()&lt;/div&gt;&lt;div&gt;+设置密码()&lt;/div&gt;&lt;div&gt;+获取头像()&lt;/div&gt;&lt;div&gt;+设置头像()&lt;/div&gt;&lt;div&gt;+获取邮箱()&lt;/div&gt;&lt;div&gt;+设置邮箱()&lt;/div&gt;&lt;div&gt;+获取昵称()&lt;/div&gt;&lt;div&gt;+设置昵称()&lt;/div&gt;&lt;div&gt;+获取个人简介()&lt;/div&gt;&lt;div&gt;+设置个人简介()&lt;/div&gt;&lt;div&gt;+获取创建时间()&lt;/div&gt;&lt;div&gt;+设置创建时间()&lt;/div&gt;&lt;div&gt;+获取最后登录时间()&lt;/div&gt;&lt;div&gt;+设置最后登录时间()&lt;/div&gt;&lt;div&gt;+获取帐号启用状态()&lt;/div&gt;&lt;div&gt;+设置帐号启用状态()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-8">
           <mxGeometry y="198" width="190" height="272" as="geometry" />
         </mxCell>
         <mxCell id="P6_UJkGY8DH9wDjuileu-12" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P6_UJkGY8DH9wDjuileu-3" target="P6_UJkGY8DH9wDjuileu-7">
@@ -496,6 +496,62 @@
             <mxPoint x="100" y="3710" as="sourcePoint" />
             <mxPoint x="260" y="3710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-19" value="资源控制器类" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-115" y="4375" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-19">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-21" value="+添加用户()&lt;div&gt;+通过账号查询用户()&lt;/div&gt;&lt;div&gt;+修改用户信息()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-19">
+          <mxGeometry y="34" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-22" value="用户" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="4190" width="190" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-23" value="&lt;div&gt;+资源id&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+资源名&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+资源描述&lt;/div&gt;&lt;div&gt;+资源图片&lt;/div&gt;&lt;div&gt;+资源价格&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+资源库存&lt;/div&gt;&lt;div&gt;+资源所属的用户id&lt;/div&gt;&lt;div&gt;+资源状态&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-22">
+          <mxGeometry y="26" width="190" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-24" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-22">
+          <mxGeometry y="190" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-25" value="&lt;div&gt;&lt;div&gt;+获取资源id()&lt;/div&gt;&lt;div&gt;+设置资源id()&lt;/div&gt;&lt;div&gt;+获取资源名()&lt;/div&gt;&lt;div&gt;+设置资源名()&lt;/div&gt;&lt;div&gt;+获取资源描述()&lt;/div&gt;&lt;div&gt;+设置资源描述()&lt;/div&gt;&lt;div&gt;+获取资源图片()&lt;/div&gt;&lt;div&gt;+设置资源图片()&lt;/div&gt;&lt;div&gt;+获取资源价格()&lt;/div&gt;&lt;div&gt;+设置资源价格()&lt;/div&gt;&lt;div&gt;+获取资源库存()&lt;/div&gt;&lt;div&gt;+设置资源库存()&lt;/div&gt;&lt;div&gt;+获取资源所属的用户id()&lt;/div&gt;&lt;div&gt;+设置资源所属的用户id()&lt;/div&gt;&lt;div&gt;+获取资源状态()&lt;/div&gt;&lt;div&gt;+设置资源状态()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-22">
+          <mxGeometry y="198" width="190" height="272" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-26" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="P6_UJkGY8DH9wDjuileu-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-115" y="4252" as="sourcePoint" />
+            <mxPoint x="-155" y="4442" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-280" y="4252" />
+              <mxPoint x="-280" y="4442" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-27" value="1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="P6_UJkGY8DH9wDjuileu-26">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-25" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-28" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="P6_UJkGY8DH9wDjuileu-26">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-29" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="P6_UJkGY8DH9wDjuileu-19" target="P6_UJkGY8DH9wDjuileu-22">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="50" y="4390" as="sourcePoint" />
+            <mxPoint x="210" y="4390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-30" value="客户端界面类" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-110" y="4200" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-31" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-30">
+          <mxGeometry y="26" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="P6_UJkGY8DH9wDjuileu-32" value="+注册用户()&lt;div&gt;+登录()&lt;/div&gt;&lt;div&gt;+修改信息()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="P6_UJkGY8DH9wDjuileu-30">
+          <mxGeometry y="34" width="160" height="56" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
