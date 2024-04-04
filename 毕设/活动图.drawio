@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T18:59:51.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jrhewrF_cD9b66FbPfkK" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T19:01:04.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gxVeVC34Z_hP-Wxwdsrx" version="24.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1827" dy="-1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,10 +202,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-9" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="3664.9999999999995" width="30" height="30" as="geometry" />
+          <mxGeometry x="740" y="3709.9999999999995" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="4300" width="30" height="30" as="geometry" />
+          <mxGeometry x="740" y="4110" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qIV9ISlbsrzk_neH7viX-14" target="qIV9ISlbsrzk_neH7viX-36">
           <mxGeometry relative="1" as="geometry">
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-14" value="查看消息列表" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="685" y="3890" width="140" height="40" as="geometry" />
+          <mxGeometry x="685" y="3850" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qIV9ISlbsrzk_neH7viX-15" target="qIV9ISlbsrzk_neH7viX-14">
           <mxGeometry relative="1" as="geometry" />
@@ -231,10 +231,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-36" value="查看用户消息" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="685" y="4012" width="140" height="40" as="geometry" />
+          <mxGeometry x="685" y="3930" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-37" value="发送用户消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="695" y="4140" width="120" height="60" as="geometry" />
+          <mxGeometry x="695" y="4010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
