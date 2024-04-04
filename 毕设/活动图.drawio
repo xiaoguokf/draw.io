@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T19:39:15.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="u7Fz4JXG1mRfJ-Elafiq" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T19:52:27.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U8oaSLm9cJkYpfyOTGDQ" version="24.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1702" dy="-1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
         <mxCell id="qIV9ISlbsrzk_neH7viX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qIV9ISlbsrzk_neH7viX-64" target="qIV9ISlbsrzk_neH7viX-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qIV9ISlbsrzk_neH7viX-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-indent: 32px;&quot;&gt;直接直接结算或购物车结算&lt;/span&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qIV9ISlbsrzk_neH7viX-70" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px; text-indent: 32px;&quot;&gt;直接直接结算或加入购物车结算&lt;/span&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="4370" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qIV9ISlbsrzk_neH7viX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qIV9ISlbsrzk_neH7viX-72" target="qIV9ISlbsrzk_neH7viX-70">
