@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T08:45:33.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xx4LDOaMpUFM76sQiPAc" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T09:00:21.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ptF0mRaVh7bQ6L0JSejE" version="24.2.2" type="github">
   <diagram name="第 1 页" id="rg37rK0ZUS6LvM8L5Lnt">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,7 +150,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-43" value="2.查询最新" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" source="FfkJ6QqM64WMyUVE7YDJ-31" target="FfkJ6QqM64WMyUVE7YDJ-35" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-43" value="2.查询最新版本()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" source="FfkJ6QqM64WMyUVE7YDJ-31" target="FfkJ6QqM64WMyUVE7YDJ-35" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="905" as="sourcePoint" />
           </mxGeometry>
@@ -160,7 +160,7 @@
             <mxPoint x="395" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-45" value="3.查询最新版本记录" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" source="FfkJ6QqM64WMyUVE7YDJ-34" target="FfkJ6QqM64WMyUVE7YDJ-38" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-45" value="3.查询最新版本记录()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" source="FfkJ6QqM64WMyUVE7YDJ-34" target="FfkJ6QqM64WMyUVE7YDJ-38" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="585" y="905" as="sourcePoint" />
           </mxGeometry>
@@ -182,7 +182,7 @@
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-48" value="下载历史版本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="1194" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-49" value="9.查询版本列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-33" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-49" value="9.打开版本更新界面" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-33" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="119.5" y="1174" as="sourcePoint" />
           </mxGeometry>
@@ -192,7 +192,7 @@
             <mxPoint x="119.5" y="1239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-51" value="10.查询版本列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-36" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-51" value="10.查询版本列表()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-36" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="309.5" y="1174" as="sourcePoint" />
           </mxGeometry>
@@ -202,7 +202,7 @@
             <mxPoint x="309.5" y="1229" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-53" value="11.查询版本列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-39" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-53" value="11.查询版本列表()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="FfkJ6QqM64WMyUVE7YDJ-39" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="469.5" y="1174" as="sourcePoint" />
           </mxGeometry>
@@ -215,7 +215,7 @@
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-36" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="470.63" y="1169" width="10" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-66" value="7.下载最新版本" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-66" value="7.下载最新版本()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="130" y="990" as="sourcePoint" />
             <mxPoint x="309.5" y="990" as="targetPoint" />
@@ -230,7 +230,7 @@
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-71" value="版本更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="950" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-72" value="15.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;15.下载指定版本&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-72" value="&lt;div&gt;15.下载指定版本()&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="125" y="1274" as="sourcePoint" />
             <mxPoint x="304.5" y="1274" as="targetPoint" />
@@ -266,7 +266,7 @@
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-84" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="FfkJ6QqM64WMyUVE7YDJ-83">
           <mxGeometry x="45" y="80" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-86" value="1.查询资源列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-75" target="FfkJ6QqM64WMyUVE7YDJ-78">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-86" value="1.查询资源列表()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-75" target="FfkJ6QqM64WMyUVE7YDJ-78">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="1635" as="sourcePoint" />
           </mxGeometry>
@@ -280,7 +280,7 @@
             <mxPoint x="325" y="1685" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-89" value="2.查询已上架资源列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-77" target="FfkJ6QqM64WMyUVE7YDJ-81">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-89" value="2.查询已上架资源列表()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-77" target="FfkJ6QqM64WMyUVE7YDJ-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="405" y="1635" as="sourcePoint" />
           </mxGeometry>
@@ -291,9 +291,10 @@
             <mxPoint x="480.63" y="1669.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-91" value="3.查询已上架资源列表" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-80" target="FfkJ6QqM64WMyUVE7YDJ-84">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-91" value="3.查询已上架资源列表()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="FfkJ6QqM64WMyUVE7YDJ-80" target="FfkJ6QqM64WMyUVE7YDJ-84">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
             <mxPoint x="595" y="1635" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-92" value="4.资源列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1">
@@ -305,7 +306,7 @@
         <mxCell id="FfkJ6QqM64WMyUVE7YDJ-93" value="下架资源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="1655" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-103" value="7.下架指定资源" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-103" value="7.下架资源()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="1720" as="sourcePoint" />
             <mxPoint x="315" y="1720" as="targetPoint" />
@@ -317,7 +318,7 @@
             <mxPoint x="325" y="1770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-106" value="8.下架指定资源" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-106" value="8.下架指定id资源()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="1718" as="sourcePoint" />
             <mxPoint x="475" y="1718" as="targetPoint" />
@@ -329,7 +330,7 @@
             <mxPoint x="480.63" y="1752.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-108" value="9.下架指定资源" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
+        <mxCell id="FfkJ6QqM64WMyUVE7YDJ-108" value="9.下架指定id资源()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480.63" y="1720" as="sourcePoint" />
             <mxPoint x="665.63" y="1720" as="targetPoint" />
