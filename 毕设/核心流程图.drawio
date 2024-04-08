@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T02:54:07.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OpnIZTJ01wctHiYDUc-T" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T02:57:44.606Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wZgurlwNiABnXjr_DvK9" version="24.2.2" type="github">
   <diagram name="第 1 页" id="vKyOZpu00KVVWq0q7L-a">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,6 +156,39 @@
         </mxCell>
         <mxCell id="B_Qh2BRSdst1haslCtpr-50" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="174" y="2340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-68" target="B_Qh2BRSdst1haslCtpr-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-68" value="获取消息列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-70" target="B_Qh2BRSdst1haslCtpr-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-70" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="294" y="2930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-72" target="B_Qh2BRSdst1haslCtpr-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-72" value="获取消息内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-79" target="B_Qh2BRSdst1haslCtpr-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-79" value="保存用户信息到数据库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-80" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="294" y="3570" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-83" target="B_Qh2BRSdst1haslCtpr-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-83" value="填写用户消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="3290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
