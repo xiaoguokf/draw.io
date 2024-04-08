@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T03:04:53.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ahRiAq9nVCpu8A2GMnUr" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T03:09:56.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TgIHiqTFXk7u6Odxvxhe" version="24.2.2" type="github">
   <diagram name="第 1 页" id="vKyOZpu00KVVWq0q7L-a">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -259,6 +259,39 @@
         </mxCell>
         <mxCell id="B_Qh2BRSdst1haslCtpr-107" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="4350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-110" target="B_Qh2BRSdst1haslCtpr-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-110" value="用户违法平台有关规定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-112" target="B_Qh2BRSdst1haslCtpr-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-112" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="325" y="5020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-114" target="B_Qh2BRSdst1haslCtpr-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-114" value="搜索违规用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-116" target="B_Qh2BRSdst1haslCtpr-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-116" value="将用户强制下线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-117" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="325" y="5680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B_Qh2BRSdst1haslCtpr-119" target="B_Qh2BRSdst1haslCtpr-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B_Qh2BRSdst1haslCtpr-119" value="对用户进行封禁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="5380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
