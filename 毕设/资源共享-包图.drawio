@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T00:04:52.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kM9ha5t8zJMSpp2iwooI" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T13:27:01.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FtShDN1G21w3nhOC7ctU" version="24.2.2" type="github">
   <diagram name="第 1 页" id="3LCLasnWs26GgvGPkRju">
-    <mxGraphModel dx="2062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,6 +443,81 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-85" y="1440" as="sourcePoint" />
             <mxPoint x="-145" y="1522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-118" value="基于web的大学校园资源共享系统" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-400" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-121" value="用户信息管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="369" y="-150" width="86" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-122" value="订单管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="-150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-123" value="消息交流" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="259" y="-150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-124" value="用户资源管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-181" y="-150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-125" value="购物车管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="39" y="-150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-126" value="后台用户管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="599" y="-150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-127" value="后台资源管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-150" width="79" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-128" value="更新版本" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="149" y="-150" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-129" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-126">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="461" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-130" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-127">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="461" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-134" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-121">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="99" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-135" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0;entryDx=20;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-123">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="279" y="-310" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-136" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=14;entryPerimeter=0;" edge="1" parent="1" target="2P_DUM-xl3jfMHFo5baJ-128" source="2P_DUM-xl3jfMHFo5baJ-118">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="99" y="-230" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-137" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-122">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="99" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="269" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-138" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=40;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-124">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="99" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2P_DUM-xl3jfMHFo5baJ-139" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=65;entryDy=14;entryPerimeter=0;" edge="1" parent="1" source="2P_DUM-xl3jfMHFo5baJ-118" target="2P_DUM-xl3jfMHFo5baJ-125">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="99" y="-230.00000000000023" as="sourcePoint" />
+            <mxPoint x="309" y="-230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
