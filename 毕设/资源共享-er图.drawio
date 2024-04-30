@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T08:05:23.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LX6r_04ATCQMJzxpLZ0d" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T08:43:27.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4-IqgGEOXJAfluEwzMLd" version="24.2.7" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1235" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,7 +317,7 @@
         <mxCell id="D-Qqd_5pHTushtScb7tL-76" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:&lt;br/&gt;11.0pt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-fareast-font-family:宋体;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:&lt;br/&gt;ZH-CN;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;order_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="2790" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="D-Qqd_5pHTushtScb7tL-77" value="商品id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D-Qqd_5pHTushtScb7tL-77" value="资源id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="2930" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="D-Qqd_5pHTushtScb7tL-78" value="用户id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
