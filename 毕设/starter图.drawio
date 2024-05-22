@@ -1,9 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T14:47:41.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.6" etag="fxr7_6YiwEnP_xNdLhYD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T14:56:44.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Lnv82oVSkI1-ea-bT8z5" version="24.4.6" type="github">
   <diagram name="第 1 页" id="G0VvMlHXsFRXtVDaq6HX">
-    <mxGraphModel>
+    <mxGraphModel dx="1235" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="srEyrOy-u4GueHa_D6nm-1" value="微服务主要依赖" style="rounded=0;whiteSpace=wrap;html=1;horizontal=1;verticalAlign=middle;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-2" target="srEyrOy-u4GueHa_D6nm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-2" value="web-spring-boot-starter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-3" target="srEyrOy-u4GueHa_D6nm-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-3" value="mysql-spring-boot-starter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="260" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-4" target="srEyrOy-u4GueHa_D6nm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-4" value="openfeign-spring-boot-starter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-5" target="srEyrOy-u4GueHa_D6nm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-5" value="security-spring-boot-starter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-6" target="srEyrOy-u4GueHa_D6nm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-6" value="spring-boot-starter-web" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-7" target="srEyrOy-u4GueHa_D6nm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-7" value="springdoc-spring-boot-starter-web" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-8" target="srEyrOy-u4GueHa_D6nm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-8" value="spring-boot-starter-validation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-9" target="srEyrOy-u4GueHa_D6nm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-9" value="mysql-connector-j" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-10" target="srEyrOy-u4GueHa_D6nm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-10" value="mybatis-plus-spring-boot-starter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-11" target="srEyrOy-u4GueHa_D6nm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-11" value="spring-cloud-starter-loadbalancer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-12" target="srEyrOy-u4GueHa_D6nm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-12" value="spring-cloud-starter-openfeign" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="srEyrOy-u4GueHa_D6nm-13" target="srEyrOy-u4GueHa_D6nm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srEyrOy-u4GueHa_D6nm-13" value="spring-boot-starter-oauth2-resource-server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
